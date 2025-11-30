@@ -1,5 +1,4 @@
-# 👋 Hola! Sóc l’Alex Romero
-
+# 👋 Hola! Sóc Yang Zhang
 Estudiant de **Sistemes Microinformàtics i Xarxes (SMX)** amb interès pel desenvolupament web, l’administració de sistemes i la tecnologia en general. Aquí comparteixo pràctiques, projectes i recursos que vaig aprenent.
 
 ## 🔧 Tecnologies i Coneixements
@@ -14,19 +13,20 @@ Estudiant de **Sistemes Microinformàtics i Xarxes (SMX)** amb interès pel dese
 
 ## 📂 Projectes destacats (HTML)
 
-### 🌐 **1. Web de Presentació Personal**
+### 🌐 **1. Web d'empresa real**
 Projecte simple en HTML i CSS on vaig practicar:
 - Maquetació amb Flexbox
 - Ús d’etiquetes semàntiques (header, nav, main…)
 - Creació d'un estil visual coherent  
 Aquest projecte mostra una pàgina personal amb informació, aficions i enllaços.
 
-### 🛍️ **2. Botiga Online (HTML + CSS)**
-Una web tipus catàleg amb:
-- Llistat de productes amb imatges
-- Barra de navegació
-- Disseny responsive per mòbil i PC  
-Vaig aprendre a organitzar contingut i crear una estructura clara i funcional.
+### 🌐 **2. Cartes de FIFA (HTML + CSS)**
+Un projecte on vaig crear una pàgina web que mostra cartes personalitzades de jugadors de FIFA:
+- Galeria de cartes generades amb HTML i CSS
+- Disseny visual inspirat en les cartes reals (colors, estatístiques, tipus de carta…)
+- Barra de navegació i estructura organitzada
+- Disseny responsive perquè es vegi bé en mòbil i ordinador
+Amb aquest projecte vaig aprendre a treballar millor el CSS visual, l’organització d’elements en targetes i la presentació gràfica d’informació.
 
 ---
 
